@@ -1,0 +1,50 @@
+@font-face {
+    font-family:Austie Bost Kitten Klub ;
+    src: url(masc.ttf);
+}
+h2{
+font-family: Austie Bost Kitten Klub ;
+border-width: 90px;}
+
+div{
+    
+    font-family:verdana;
+    font-size:20px;
+    color:white;
+    text-shadow: 3px  0px 0px black,
+                 0px  3px 0px black,
+                -3px  0px 0px black,
+                 0px -3px 0px black;
+
+                 background-color: 60A6CC;
+                }
+section{
+
+background-color:blueviolet;
+margin-left: 70px;
+  margin-right: 70px;
+  padding-left: 150px;
+  padding-right: 150px;
+  font-size: large;
+  
+}
+nav{
+
+background-color:mediumturquoise;
+ margin-left: 70px;
+   margin-right: 70px;
+   padding-left: 150px;
+   padding-right: 150px;
+   font-size: large;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
+}
+
+header{
+background-color:black;  
+ margin-left: 70px;
+   margin-right: 70px;
+   padding-left: 50px;
+   padding-right: 50px;
+    
+}
